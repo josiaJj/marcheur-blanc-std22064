@@ -1,0 +1,4 @@
+Marcheur : Id, Nom, Origine, marche(lieuDepart, rueAutreQueDejaVisiteSiIlALeChoix) return lieuArrivee, listeLieuxDejaVisites, listeRuesDejaVisites
+enum Lieu : HEI, ESTI, Pullman,
+enum rue : ...
+Carte : relier(lieu1, lieu2) return rue;
